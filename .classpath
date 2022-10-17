@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/jdbc.assignment.191035.jar"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jackcess-2.1.11.jar"/>
+	<classpathentry kind="lib" path="dist/lib/ucanaccess-4.0.4.jar"/>
+	<classpathentry kind="lib" path="UcanAccess/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="UcanAccess/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="UcanAccess/hsqldb.jar"/>
+	<classpathentry kind="lib" path="UcanAccess/jackcess-2.1.11.jar"/>
+	<classpathentry kind="lib" path="UcanAccess/ucanaccess-4.0.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

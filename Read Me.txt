@@ -1,0 +1,17 @@
+Assalam O Alekum....
+
+If you are new user of this project, you should follow the following instructions..
+
+(1). Make sure that you have added jdbc drivers (ucanaccess) to the library project.
+	if already added then you can skip this step.
+
+(2). To use this project successfully you must run "FirstFrame" Class for the first time Or
+		you can run the project directly by clicking right click on it and pressing "run file".
+
+(3). Also make sure that you have all the pictures used in this project.
+
+(5). After running the project, you are required to sign in by clicking sign in button in Frame if you have account already.
+
+(6). If you do not have account for using this project , you can sign up with this project also by clicking sign up button in "FirstFrame" class.
+
+(7). If you did not get my instructions, you can watch the screen recording by the name "Project Recording". 
